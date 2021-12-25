@@ -12,7 +12,7 @@
 8. '/application' =>	see applicants detail page
 
 9. '/*'           =>  !!! ERROR !!!
-(url other then these will show ERROR)
+(putting url other then these urls will show ERROR)
 
 ###################################################
 
