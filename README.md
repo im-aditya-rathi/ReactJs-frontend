@@ -11,8 +11,8 @@
 7. '/postjob'     =>	post a job page
 8. '/application' =>	see applicants detail page
 
-url other then these will show ERROR
 9. '/*'           =>  !!! ERROR !!!
+(url other then these will show ERROR)
 
 ###################################################
 
