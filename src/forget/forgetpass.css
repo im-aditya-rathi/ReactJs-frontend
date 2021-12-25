@@ -1,0 +1,54 @@
+.forgetfirst{
+    background: linear-gradient(248deg, #303F60 0%, #1A253C 100%);
+    padding-top: 12px;
+    padding-left: 70px;
+    padding-right: 70px;
+    color: white;
+    height: 362px;
+}
+.navbar-brand{
+    font-size: x-large;
+    font-weight: 600;
+}
+.brand1{
+    color: white;
+}
+.brand2{
+    color: #43afff;
+}
+.btn1{
+    background-color: #43AFFF33;
+    color: white;
+    border: 1px solid #43AFFF;
+}
+.btn1:hover{
+    color: white;
+}
+#forgetsecond{
+    background-color: #EDF6FF;
+    height: 376px;
+}
+#forgetbox{
+    position: relative;
+    /* margin-top: -400px; */
+    border-radius: 20px;
+    background-color: white;
+    
+    margin-top: -160px;
+    top: -170px;
+    margin-bottom: -70px;
+}
+.btn2{
+    background-color: #43AFFF;
+    color: white;
+}
+.btn2:hover{
+    color: white;
+}
+.heading{
+    font-weight: 600;
+}
+/* link{
+    float: right; 
+    text-decoration: none;
+} */

@@ -1,0 +1,96 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/* ********************************** */
+/* part-1 */
+.first{
+    background: linear-gradient(248deg, #303F60 0%, #1A253C 100%);
+    padding-top: 12px;
+    padding-left: 70px;
+    padding-right: 70px;
+    height: 440px;
+    color: white;
+}
+
+/* HEADER */
+.navbar-brand{
+    font-size: x-large;
+    font-weight: 600;
+}
+.brand1{
+    color: white;
+}
+.brand2{
+    color: #43afff;
+}
+.btn2:hover{
+    color: white;
+}
+.btn1{
+    background-color: #43AFFF33;
+    color: white;
+    border: 1px solid #43AFFF;
+}
+.btn1:hover{
+    color: white;
+}
+.btn2{
+    background-color: #43AFFF;
+    color: white;
+}
+.h1{
+    font-size: 60px;
+}
+
+/* main */
+.main-1{
+    padding-left: 120px;
+    padding-top: 120px;
+    margin-top: -20px;
+}
+
+/* image */
+.main-2{
+    position: relative;
+    top: 100px;
+    margin-top: -10px;
+}
+
+/* **************************************** */
+/* part-2 */
+.second{
+    padding-left: 190px;
+    padding-right: 190px;
+    padding-top: 190px;
+    background-color: #EDF6FF;
+    height: 670px;
+}
+.card-title{
+    width: 40%;
+}
+#company-1{
+    display: flexbox;
+    justify-content: center;
+}
+#company-2{
+    display: flexbox;
+    justify-content: center;
+}
+.heading{
+    color: #303F60;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.card-title{
+    color: #43AFFF;
+    text-align: left;
+    font-weight: 600;
+    letter-spacing: 0px;
+    text-transform: capitalize;
+}
+.card{
+    box-shadow: 0px 3px 6px #557DA526;
+    border-radius: 5px;
+}

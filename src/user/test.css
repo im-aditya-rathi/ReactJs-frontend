@@ -1,0 +1,64 @@
+.first{
+    background: linear-gradient(248deg, #303F60 0%, #1A253C 100%);
+    padding-top: 12px;
+    padding-left: 70px;
+    padding-right: 70px;
+    color: white;
+    height: 362px;
+}
+.navbar-brand{
+    font-size: x-large;
+    font-weight: 600;
+}
+.brand1{
+    color: white;
+}
+.brand2{
+    color: #43afff;
+}
+.btn1{
+    background-color: #43AFFF33;
+    color: white;
+    border: 1px solid #43AFFF;
+}
+.btn1:hover{
+    color: white;
+}
+.second{
+    background-color: #EDF6FF;
+    height: 376px;
+}
+#loginsecond{
+    background-color: #EDF6FF;
+    height: 376px;
+}
+.loginbox{
+    position: relative;
+    margin-top: -170px;
+    top: -170px;
+    border-radius: 20px;
+    background-color: white;
+    margin-bottom: -70px;
+}
+.btn2{
+    background-color: #43AFFF;
+    color: white;
+}
+.btn2:hover{
+    color: white;
+}
+
+.linkunderline{
+    text-decoration: none;
+}
+
+.floatlink{
+    float: right;
+    text-decoration: none;
+}
+.movecenter{
+    justify-content: center;
+    display: inline;
+    margin: 0 auto;
+    align-items: center;
+}

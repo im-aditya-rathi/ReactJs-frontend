@@ -1,0 +1,193 @@
+.bgfade{
+    opacity: 0.3;
+    z-index: 1;
+}
+
+#appfirst{
+    background: linear-gradient(248deg, #303F60 0%, #1A253C 100%);
+    padding-top: 12px;
+    padding-left: 70px;
+    padding-right: 70px;
+    color: white;
+    height: 262px;
+}
+.navbar-brand{
+    font-size: x-large;
+    font-weight: 600;
+}
+.brand1{
+    color: white;
+}
+.brand2{
+    color: #43afff;
+}
+.btn1{
+    background-color: #43AFFF33;
+    color: white;
+    border: 1px solid #43AFFF;
+}
+.btn1:hover{
+    color: white;
+}
+.second{
+    background-color: grey;
+    height: 380px;
+}
+.box{
+    position: relative;
+    margin-top: -170px;
+    border-radius: 20px;
+    background-color: white;
+}
+.btn2{
+    background-color: #43AFFF;
+    color: white;
+}
+.btn2:hover{
+    color: white;
+}
+.heading{
+    font-weight: 600;
+}
+.item1{
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+.dropmenu{
+    background: #D9EFFF 0% 0% no-repeat padding-box;
+border-radius: 25px;
+opacity: 1;
+width: 40px;
+padding-left: 13px;
+color: #303F60;
+font-size: x-large;
+}
+.home{
+    opacity: 0.8;
+    font-size: small;
+    text-decoration: none;
+}
+/* link{
+    float: right; 
+    text-decoration: none;
+} */
+
+/* *************************** */
+#appsecond{
+    padding-left: 70px;
+    padding-right: 70px;
+    height: 80px;
+}
+.appmoveup{
+    position: relative;
+    top: -50px;
+    border-radius: 20px;
+}
+.jobbtn{
+    background-color: #43AFFF33;
+    color: #303F60;
+    border: none;
+}
+.jobbtn:hover{
+    background-color: #43AFFF33;
+    color: #303F60;
+    border: none; 
+}
+.apppagebtn{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    position: relative;
+    top: 216px;
+}
+.pbtn1{
+    border: 1px solid grey;
+}
+.pbtn2{
+    background-color: #43AFFF33;
+}
+.mstyle{
+    border-radius: 20px;
+}
+
+/* form display */
+.formmid{
+    padding-left: 300px;
+}
+
+.formdis{
+    color: #303F60;
+    border: 1px solid rgba(128, 128, 128, 0.445);
+    width: 75%;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -300px;
+    padding-top: 18px;
+    padding-left: 18px;
+    padding-right: 18px;
+    z-index: 10;
+    border-radius: 20px;
+    padding-bottom: 20px;
+}
+
+.appicons{
+background: #D9EFFF 0% 0% no-repeat padding-box;
+border-radius: 40px;
+opacity: 1;
+width: 50px;
+height: 50px;
+padding-left: 25px;
+padding-right: 20px;
+padding-bottom: 10px;
+color: #303F60;
+font-size: x-large;
+}
+.moveicon{
+    position: relative;
+    top: -38px;
+    padding-left: 12px;
+    font-size: xx-large;
+}
+
+
+#apph5{
+    font-weight: 600;
+    margin-left: -12px;
+}
+#appp{
+    margin-left: -12px;
+    font-size: small;
+    margin-top: -8px;
+}
+
+/* *********************** */
+/* cards */
+.cardgroups{
+    background-color: #a9afbc2f;
+    border-radius: 7px;
+}
+
+/* single card */
+.paraheading{
+    font-size: large;
+}
+
+.para{
+    padding: 0px;
+    margin: 0%;
+    color: #303F60;
+    font-size: small;
+}
+
+.para1{
+    font-weight: 550;
+}
+
+.para2{
+    opacity: .8;
+    line-height: .93rem;
+    padding-bottom: 10px;
+}

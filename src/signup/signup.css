@@ -1,0 +1,52 @@
+.signupfirst{
+    background: linear-gradient(248deg, #303F60 0%, #1A253C 100%);
+    padding-top: 12px;
+    padding-left: 70px;
+    padding-right: 70px;
+    color: white;
+    height: 362px;
+}
+.navbar-brand{
+    font-size: x-large;
+    font-weight: 600;
+}
+.brand1{
+    color: white;
+}
+.brand2{
+    color: #43afff;
+}
+.btn1{
+    background-color: #43AFFF33;
+    color: white;
+    border: 1px solid #43AFFF;
+}
+.btn1:hover{
+    color: white;
+}
+.signupsecond{
+    background-color: #EDF6FF;
+    height: 376px;
+}
+.signupbox{
+    position: relative;
+    margin-top: -280px;
+    border-radius: 20px;
+    background-color: white;
+    margin-bottom: -210px;
+}
+.btnrec{
+    background-color: #43AFFF;
+    color: white;
+}
+.btnrec:hover{
+    color: white;
+}
+.btncan{
+    background-color: #E8E8E833;
+    border: 1px solid #C6C6C6;
+    color: black;
+}
+.iconcan{
+    color: #43AFFF;
+}

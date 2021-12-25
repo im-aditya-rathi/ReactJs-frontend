@@ -1,0 +1,108 @@
+.profilefirst{
+    background: linear-gradient(248deg, #303F60 0%, #1A253C 100%);
+    padding-top: 12px;
+    padding-left: 70px;
+    padding-right: 70px;
+    color: white;
+    height: 262px;
+}
+.navbar-brand{
+    font-size: x-large;
+    font-weight: 600;
+}
+.brand1{
+    color: white;
+}
+.brand2{
+    color: #43afff;
+}
+.btn1{
+    background-color: #43AFFF33;
+    color: white;
+    border: 1px solid #43AFFF;
+}
+.btn1:hover{
+    color: white;
+}
+.second{
+    background-color: #EDF6FF;
+    height: 376px;
+}
+.box{
+    position: relative;
+    margin-top: -170px;
+    border-radius: 20px;
+    background-color: white;
+}
+.btn2{
+    background-color: #43AFFF;
+    color: white;
+}
+.btn2:hover{
+    color: white;
+}
+.heading{
+    font-weight: 600;
+}
+.item1{
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+.dropmenu{
+    background: #D9EFFF 0% 0% no-repeat padding-box;
+border-radius: 25px;
+opacity: 1;
+width: 40px;
+padding-left: 13px;
+color: #303F60;
+font-size: x-large;
+}
+.home{
+    opacity: 0.8;
+    font-size: small;
+    text-decoration: none;
+}
+/* link{
+    float: right; 
+    text-decoration: none;
+} */
+
+/* *************************** */
+#second{
+    padding-left: 70px;
+    padding-right: 70px;
+    height: 476px;
+}
+.profileup{
+    position: relative;
+    top: -50px;
+    border-radius: 20px;
+}
+.jobbtn{
+    background-color: #43AFFF33;
+    color: #303F60;
+    border: none;
+}
+.jobbtn:hover{
+    background-color: #43AFFF33;
+    color: #303F60;
+    border: none; 
+}
+.profilepagebtn{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    position: relative;
+    top: 220px;
+}
+.pbtn1{
+    border: 1px solid grey;
+}
+.pbtn2{
+    background-color: #43AFFF33;
+}
+
+.mstyle{
+    border-radius: 20px;
+}
