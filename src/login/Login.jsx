@@ -85,7 +85,7 @@ function Login() {
                             <input type="password" onChange={(e)=>setPassword(e.target.value)} className="form-control" id="userpassword" placeholder="Enter Your Password" required />
                         </div>
 
-                        //<button type="submit"  className="btn btn2 my-5 px-4 d-block mx-auto">Login</button>
+                        {/*<button type="submit"  className="btn btn2 my-5 px-4 d-block mx-auto">Login</button>*/}
                           <Link to="/profile" className="btn w-25 btn2 my-5 px-4 d-block mx-auto">Login</Link>        
 
                             <div className="mx-auto movecenter">
